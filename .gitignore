@@ -1,0 +1,6 @@
+# Solo se publica la app web. Esto se queda en el PC:
+facil-expo/
+GUIA.md
+logic.test.js
+icon-maskable.svg
+.claude/
